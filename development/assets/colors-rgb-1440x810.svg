@@ -4,10 +4,10 @@
 <svg
    version="1.1"
    id="svg7749"
-   width="1460"
-   height="830"
-   viewBox="0 0 1460 830"
-   sodipodi:docname="colors.svg"
+   width="1440"
+   height="810"
+   viewBox="0 0 1440 810"
+   sodipodi:docname="colors-rgb-1440x810.svg"
    inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -37,7 +37,7 @@
      inkscape:current-layer="svg7749" />
   <g
      id="g15124"
-     transform="matrix(12,0,0,11.25,10,10)"
+     transform="scale(12,11.25)"
      class="UnoptimicedTransforms">
     <rect
        style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.142624;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
