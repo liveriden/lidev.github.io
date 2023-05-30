@@ -1,0 +1,87 @@
+virustotal scan
+
+.
+
+.
+
+.
+
+.
+
+https://www.virustotal.com/gui/file/48b737714d1f771a5906bee01b00bceaf23abc84e496adf9ba97c21704c38137/details
+Basic properties
+MD5	c11dae9d0e4269b7eccbd4ab57704ee2
+SHA-1	60e0c49b2fe2217e37fcadda983b01d625823234
+SHA-256	48b737714d1f771a5906bee01b00bceaf23abc84e496adf9ba97c21704c38137
+Vhash	htm:dcc7e48d75a21527e6c4cce72a64ae38
+SSDEEP	1536:O7k1Kau1j27W/2ycT2b51RBmIdZgCA8+CYgMI:O7k1Kau1j27W/2ycT2b51RBmIdZgCA8j
+TLSH	T1FA83FE51B2F02B79B44D4D1ABB00BF2F2FD1A8A717111919350FBAF25FDA8DA442B24D
+File type	HTML
+Magic	HTML document, Unicode text, UTF-8 text
+TrID	HyperText Markup Language (100%)
+File size	85.76 KB (87818 bytes)
+History
+First Submission	2023-05-30 13:32:50 UTC
+Last Submission	2023-05-30 13:32:50 UTC
+Last Analysis	2023-05-30 13:32:50 UTC
+Names
+Ta6litca-6e3o5acnix-tcvetov-Table-safe-colors.html
+HTML Info
+Title
+Таблица «безопасных» цветов
+Meta Tags
+viewport	width=device-width, initial-scale=1.0
+
+.
+
+.
+
+.
+
+.
+
+https://www.virustotal.com/gui/file/5edb691ca44f15934f511afc155ab33e1f4608b7b3b72813ff5545d635af7c10/details
+Basic properties
+MD5	a3e03a9e4969a7f55ccc323080bc0389
+SHA-1	57f85477deae34ceb09f3608da222cd0e881fae6
+SHA-256	d38d726dc6127d0d89bcdcdebf22d76ce4d0b3f29573c698a4060060adf9f47a
+SSDEEP	48:eJGakO4PpZ4l5fgu/7nldlC4lkhAaZkz3P:eJGxO4/4jIaHC4lkuamz3P
+TLSH	T131318B9066AD64DF6202F45BDD089D087EE787FE3FBB532614782C2F38D3028C22552A
+File type	unknown
+Magic	Unicode text, UTF-8 text, with very long lines (384u)
+File size	1.64 KB (1682 bytes)
+History
+First Submission	2023-05-30 13:57:48 UTC
+Last Submission	2023-05-30 13:57:48 UTC
+Last Analysis	2023-05-30 13:57:48 UTC
+Names
+rgb.md
+
+.
+
+.
+
+.
+
+.
+
+https://www.virustotal.com/gui/file/ed97bd17dc16368d47b36118acdefd07f5dc1970c896397c30097b09a8b6b163?nocache=1
+Basic properties
+MD5	8eb3aff89d3f07e6793d43124fa9f837
+SHA-1	01a0717f66666679088c4a20316ac268605f8ee3
+SHA-256	ed97bd17dc16368d47b36118acdefd07f5dc1970c896397c30097b09a8b6b163
+SSDEEP	48:civcbVfIkLH2tttwtqUT6BZq2nVZJx0bxxjsxtWVx0Z78x4TzxGzxGOxPDoxJZxW:QRXLzSxVKbfkWcZ79gwwAouNbBh8Oi
+TLSH	T1DBA1998AE3D446EA953F0069EF84B211412B32639B791E6E7E9D43315F0A2C677763CC
+File type	SVG
+multimedia
+image
+svg
+Magic	SVG Scalable Vector Graphics image
+TrID	file seems to be plain text/ASCII (0%)
+File size	4.52 KB (4632 bytes)
+History
+First Submission	2023-05-30 13:33:48 UTC
+Last Submission	2023-05-30 13:33:48 UTC
+Last Analysis	2023-05-30 13:33:48 UTC
+Names
+colors.svg
