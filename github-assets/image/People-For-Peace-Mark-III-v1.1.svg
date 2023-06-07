@@ -4,12 +4,15 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   viewBox="0 0 1745.813 1745.974"
+   viewBox="0 0 1080 1080"
    xml:space="preserve"
    sodipodi:docname="People-For-Peace-Mark-III-v1.1.svg"
-   width="1745.813"
-   height="1745.974"
+   width="1080"
+   height="1080"
    inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   inkscape:export-filename="People-For-Peace-Mark-III-v1.1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -28,17 +31,35 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
-   inkscape:zoom="0.39465854"
-   inkscape:cx="875.44032"
-   inkscape:cy="875.44032"
+   inkscape:zoom="0.55813146"
+   inkscape:cx="481.06946"
+   inkscape:cy="540.19532"
    inkscape:window-width="1280"
    inkscape:window-height="967"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Layer_1" />
-<g
-   id="g6997"><g
+   inkscape:current-layer="layer1" />
+
+     <metadata
+   id="metadata248">
+    <rdf:RDF>
+      <cc:Work
+   rdf:about="">
+        <dc:date>2023-05-31 5:44 AM</dc:date>
+        <dc:description>People For Peace Mark III - www.openclipart.org/detail/265177/people-for-peace-mark-iii</dc:description>
+        <cc:license
+   rdf:resource="" />
+      <dc:title>People For Peace Mark III lidev</dc:title></cc:Work>
+    </rdf:RDF>
+  </metadata>
+ <g
+   inkscape:groupmode="layer"
+   id="layer1"
+   inkscape:label="Layer 1"
+   transform="matrix(0.71812309,0,0,0.71813047,-8.6715118e-7,1.33713e-6)"><g
+     id="g6997"
+     transform="translate(-120.94624,-121.03453)"><g
    id="g5146"
    inkscape:label="ellipse-g5146"
    style="display:inline"
@@ -682,7 +703,7 @@
    width="120"
    height="120"
    x="1174.5331"
-   y="-59.943096"
+   y="-59.943024"
    transform="rotate(45)" /><circle
    style="display:inline;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.0518497;stroke-linecap:round;stroke-linejoin:round"
    id="path3216"
@@ -690,17 +711,4 @@
    cy="872.987"
    r="70" />
      </g>
-   </g>
-     <metadata
-   id="metadata248">
-    <rdf:RDF>
-      <cc:Work
-   rdf:about="">
-        <dc:date>2023-05-31 5:44 AM</dc:date>
-        <dc:description>People For Peace Mark III - www.openclipart.org/detail/265177/people-for-peace-mark-iii</dc:description>
-        <cc:license
-   rdf:resource="" />
-      <dc:title>People For Peace Mark III lidev</dc:title></cc:Work>
-    </rdf:RDF>
-  </metadata>
- </svg>
+   </g></g></svg>
